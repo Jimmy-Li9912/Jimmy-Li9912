@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi, I'm LI Jingchen, Jimmy.
 
-I'm LI Jingchen, Jimmy.
-Hobbies: Sports, Having delicious food, Video games.
-Currently UG student in CUHK major in CS.
-Working on multi projects in Deep Learning and Bioinformatics now
-ENTJ
+### Hobbies: Sports, Having delicious food, Video games.
+### Currently UG student in CUHK major in CS.
+### Working on multi projects in Deep Learning and Bioinformatics now
+### ENTJ
 
 
 <!--
