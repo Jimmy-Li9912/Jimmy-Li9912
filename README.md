@@ -1,8 +1,8 @@
 ### Hi, I'm LI Jingchen, Jimmy.
 
-### Hobbies: Sports, Having delicious food, Video games.
-### Currently UG student in CUHK major in CS.
-### Working on multi projects in Deep Learning and Bioinformatics now
+### Hobbies: Snowboarding, football, Having delicious food, Video games.
+### Currently master student in University of Alberta and graduated from The Chinese University of Hong Kong with first class honor.
+### Working on multi projects in Deep Learning and Reinforcement Learning now
 ### ENTJ
 
 
