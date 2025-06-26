@@ -1,7 +1,7 @@
-### Hi, I'm LI Jingchen, Jimmy.
+### Hi, I'm Jingchen Li, Jimmy.
 
-### Hobbies: Snowboarding, football, Having delicious food, Video games.
-### Currently master student in University of Alberta and graduated from The Chinese University of Hong Kong with first class honor.
+### Hobbies: Snowboarding, Ball games, Having delicious food, Video games.
+### Currently master student at University of Alberta and graduated from The Chinese University of Hong Kong with first class honor.
 ### Working on multi projects in Deep Learning and Reinforcement Learning now
 ### ENTJ
 
