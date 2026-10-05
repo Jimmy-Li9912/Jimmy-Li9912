@@ -1,8 +1,7 @@
 ### Hi, I'm Jingchen Li, Jimmy.
 
-### Hobbies: Snowboarding, Ball games, Having delicious food, Video games.
-### Currently master student at University of Alberta and graduated from The Chinese University of Hong Kong with first class honor.
-### Working on multi projects in Deep Learning and Reinforcement Learning now
+### Hobbies: Snowboarding, Soccer, Basketball, Having delicious food, Video games.
+### Working at Experienceflow.AI
 ### ENTJ
 
 
